@@ -57,7 +57,7 @@ Quotes are defined by the  '>' symbol
 Defining an image is similar to defining a link, except you prefix it with '!'
 -->
 
-![Ketchup Pic](https://img.thrivemarket.com/store/full/6/7/671635704498-1.jpg?w=1200) 
+![Ketchup Pic](https://img.thrivemarket.com/store/full/6/7/671635704498-1.jpg) 
 
 ---
 
